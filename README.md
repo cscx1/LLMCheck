@@ -1,6 +1,6 @@
-# Open Nazca
+# Checkmate model
 
-Open-Nazca is a security scanner for AI-written source and manual code (e.g. code generated or edited by LLMs): pattern-based detection, taint analysis for reachability, and a verdict layer (Confirmed / Out-of-scope / Unverified). Optional LLM analysis and Snowflake storage. Reports in JSON, HTML, or Markdown.
+Checkmate model is a security scanner for AI-written source and manual code (e.g. code generated or edited by LLMs): pattern-based detection, taint analysis for reachability, and a verdict layer (Confirmed / Out-of-scope / Unverified). Optional LLM analysis and Snowflake storage. Reports in JSON, HTML, or Markdown.
 
 Run via CLI, web UI (Next.js + FastAPI), or Python API.
 
